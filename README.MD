@@ -9,3 +9,8 @@ This project is a homework assignment that is a part of the Web system developme
 # SQL Data ScreenShot
 ![pycharm data query](screenshots/query.png)
 
+# Table View
+![postman request output](screenshots/tableview.png)
+
+# Jason View 
+![pycharm data query](screenshots/jasonview.png)
